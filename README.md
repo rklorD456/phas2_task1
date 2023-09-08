@@ -16,4 +16,8 @@ The all tasks that made in the phase one from the training 2023-2024 of MIA
 ## _`The fourth Task`_
 > this about the python basic
   >-how to implemnt a simple oop to simulate a battle
-  >- hwo to used machine language to get predict of linear regresion 
+  >- hwo to used machine language to get predict of linear regresion
+## __`The 6 task `__
+>about a basic sensor
+  >- the MPU6050
+  >-  the encoder sensor
